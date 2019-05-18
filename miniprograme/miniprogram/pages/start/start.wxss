@@ -1,0 +1,12 @@
+/* miniprogram/pages/start/start.wxss */
+
+page{
+   height:100%                        
+}
+
+.gifsize{
+ display:flex;
+ height: 100%;                     
+ justify-content: center;
+ align-items:center;
+}

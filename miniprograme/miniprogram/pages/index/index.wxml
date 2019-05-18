@@ -1,0 +1,14 @@
+<!--index.wxml-->
+<view class="root">
+  <view id="logo" style='text-align: center; padding-top: 9%'>
+    <image src='/images/logo.png' style='width: 60%; height: 60%'></image>
+  </view>
+  <view id="buttons">
+    <view id="loginView" class="page__bd page__bd_spacing">
+      <button id="loginButton" class="weui-btn" type="button-sp-area" bindtap='login'>登录</button>
+    </view>
+    <view id="registerView" class="page__bd page__bd_spacing">
+      <button id="registerButton" class="weui-btn" type="mini-btn" bindtap='register'>注册 </button>
+    </view>
+  </view>
+</view>

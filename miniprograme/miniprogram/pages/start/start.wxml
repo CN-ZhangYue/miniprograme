@@ -1,0 +1,6 @@
+<!--miniprogram/pages/start/start.wxml-->
+<view >
+  <view class="gifsize">
+    <image src="/images/test.gif"></image>
+  </view>
+</view>
